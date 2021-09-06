@@ -1,14 +1,8 @@
 # strategy example 1
 
-## install
-
-in Terminal tab
-
-```bash
-cd example1 && npm install
-```
-
 ## run
+
+in Terminal Tab
 
 `node index.js`
 
