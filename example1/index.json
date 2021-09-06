@@ -10,6 +10,12 @@
         "text": "step1.md"
       }
     ],
+    "assets": {
+      "host01": [
+          {"file": "index.js", "target": "/root/example1/"},
+          {"file": "package.json", "target": "/root/example1/"}
+      ]
+    },
     "intro": {
       "text": "intro.md"
     },
@@ -17,9 +23,6 @@
       "text": "finish.md"
     }
   },
-  "files": [
-    "app.js", "index.js"
-  ],
   "environment": {
     "uieditorpath": "/root/example1",
       "showide": true,
