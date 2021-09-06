@@ -21,11 +21,9 @@
     "app.js", "index.js"
   ],
   "environment": {
-    "uieditorpath": "/root/example1",
-      "showide": true,
-      "idePort": 23000,
-      "uilayout": "terminal"
-  },
+    "hidefinish": true,
+    "uilayout": "vscode-terminal-split"
+},
   "backend": {
     "imageid": "nodejs:12"
   }
