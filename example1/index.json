@@ -17,10 +17,16 @@
       "text": "finish.md"
     }
   },
+  "files": [
+    "app.js", "index.js"
+  ],
   "environment": {
-    "uilayout": "editor-terminal"
+    "uieditorpath": "/root/example1",
+      "showide": true,
+      "idePort": 23000,
+      "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "javascript"
+    "imageid": "node"
   }
 }
